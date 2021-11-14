@@ -1,4 +1,4 @@
 <h3> Data Analyst Portfolio Project Repository </h3>
 
 <h2> Tableau Dashboard </h2>
-![](images/Dashboard.PNG)
+<img src="https://github.com/Sanelisow/DataAnalysisPortfolio/blob/main/Dashboard.PNG">
